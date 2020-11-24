@@ -100,3 +100,20 @@ a{
 	margin-top: 5%;
 	margin-right: 90%;
 }
+#centrão{
+	text-align: center;
+}
+#forms{
+	width: 400px;
+	height: 550px;
+	background-color: #204d96;
+	text-align: center;
+	position: relative;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	color: white;
+}
+#aa{
+	color: #4169E1;
+}
