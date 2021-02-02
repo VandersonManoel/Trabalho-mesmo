@@ -39,7 +39,7 @@
 .logo{
 	margin-top: 15px;
 }
-a{
+a:link{
 	font-weight: 600;
 	font-size: 25x;
 	margin-top: 20px;
@@ -48,6 +48,9 @@ a{
 	color:#363d54;
 	text-decoration: none;
 	font-family: 'Courier Prime', monospace;
+}
+a:hover{
+	color: black;
 }
 h1{
 	font-size: 30px;
